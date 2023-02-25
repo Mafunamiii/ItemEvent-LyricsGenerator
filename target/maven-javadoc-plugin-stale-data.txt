@@ -1,0 +1,49 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/Jahn/.m2/repository/org/netbeans/external/AbsoluteLayout/RELEASE140/AbsoluteLayout-RELEASE140.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'18'
+-sourcepath
+'C:/Users/Jahn/Documents/NetBeansProjects/ItemEvent-LyricsGenerator/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Jahn/Documents/NetBeansProjects/ItemEvent-LyricsGenerator/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ItemEvent-LyricsGenerator 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'ItemEvent-LyricsGenerator 1.0-SNAPSHOT API'
+Application
+'C:/Users/Jahn/Documents/NetBeansProjects/ItemEvent-LyricsGenerator/src/main/java/Application/ItemEventLyrics.java'
+C:\Users\Jahn\.m2\repository\org\netbeans\external\AbsoluteLayout\RELEASE140\AbsoluteLayout-RELEASE140.jar = 1663209113534
+C:\Users\Jahn\Documents\NetBeansProjects\ItemEvent-LyricsGenerator\src\main\java = 1663292196764
+C:\Users\Jahn\Documents\NetBeansProjects\ItemEvent-LyricsGenerator\target\site\apidocs\allclasses-index.html = 1663293946964
+C:\Users\Jahn\Documents\NetBeansProjects\ItemEvent-LyricsGenerator\target\site\apidocs\allpackages-index.html = 1663293946969
+C:\Users\Jahn\Documents\NetBeansProjects\ItemEvent-LyricsGenerator\target\site\apidocs\copy.svg = 1663293947021
+C:\Users\Jahn\Documents\NetBeansProjects\ItemEvent-LyricsGenerator\target\site\apidocs\element-list = 1663293946841
+C:\Users\Jahn\Documents\NetBeansProjects\ItemEvent-LyricsGenerator\target\site\apidocs\help-doc.html = 1663293947011
+C:\Users\Jahn\Documents\NetBeansProjects\ItemEvent-LyricsGenerator\target\site\apidocs\index-all.html = 1663293946997
+C:\Users\Jahn\Documents\NetBeansProjects\ItemEvent-LyricsGenerator\target\site\apidocs\index.html = 1663293947001
+C:\Users\Jahn\Documents\NetBeansProjects\ItemEvent-LyricsGenerator\target\site\apidocs\jquery-ui.overrides.css = 1663293947082
+C:\Users\Jahn\Documents\NetBeansProjects\ItemEvent-LyricsGenerator\target\site\apidocs\member-search-index.js = 1663293946979
+C:\Users\Jahn\Documents\NetBeansProjects\ItemEvent-LyricsGenerator\target\site\apidocs\module-search-index.js = 1663293946971
+C:\Users\Jahn\Documents\NetBeansProjects\ItemEvent-LyricsGenerator\target\site\apidocs\overview-tree.html = 1663293946941
+C:\Users\Jahn\Documents\NetBeansProjects\ItemEvent-LyricsGenerator\target\site\apidocs\package-search-index.js = 1663293946974
+C:\Users\Jahn\Documents\NetBeansProjects\ItemEvent-LyricsGenerator\target\site\apidocs\script.js = 1663293947018
+C:\Users\Jahn\Documents\NetBeansProjects\ItemEvent-LyricsGenerator\target\site\apidocs\search.js = 1663293947027
+C:\Users\Jahn\Documents\NetBeansProjects\ItemEvent-LyricsGenerator\target\site\apidocs\serialized-form.html = 1663293946918
+C:\Users\Jahn\Documents\NetBeansProjects\ItemEvent-LyricsGenerator\target\site\apidocs\stylesheet.css = 1663293947015
+C:\Users\Jahn\Documents\NetBeansProjects\ItemEvent-LyricsGenerator\target\site\apidocs\tag-search-index.js = 1663293946981
+C:\Users\Jahn\Documents\NetBeansProjects\ItemEvent-LyricsGenerator\target\site\apidocs\type-search-index.js = 1663293946976
